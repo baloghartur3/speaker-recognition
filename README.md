@@ -22,6 +22,6 @@ python ./dataprep.py --save_path data --extract
 ```
 The USERNAME and PASSWORD need to be requested from this link: https://docs.google.com/forms/d/e/1FAIpQLSdQhpq2Be2CktaPhuadUMU7ZDJoQuRlFlzNO45xO-drWQ0AXA/viewform?fbzx=7440236747203254000
 
-###Data preparation 
+### Data preparation 
 
 You can find the data processing in the Big_Homework.ipynb in the root directory of the project
