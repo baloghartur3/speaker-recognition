@@ -3,7 +3,7 @@
 ## The database
 We used the Voxceleb1 dataset, which contains over 100,000 utterances for 1,251 celebrities, extracted from videos uploaded to YouTube.
 
-## The following lines are from the Voxceleb trainer project, which contains the download method for the data too
+The following lines are from the Voxceleb trainer project, which contains the download method for the data too:
 (https://github.com/clovaai/voxceleb_trainer)
 
 ### Dependencies
@@ -22,4 +22,6 @@ python ./dataprep.py --save_path data --extract
 ```
 The USERNAME and PASSWORD need to be requested from this link: https://docs.google.com/forms/d/e/1FAIpQLSdQhpq2Be2CktaPhuadUMU7ZDJoQuRlFlzNO45xO-drWQ0AXA/viewform?fbzx=7440236747203254000
 
+###Data preparation 
 
+You can find the data processing in the Big_Homework.ipynb in the root directory of the project
