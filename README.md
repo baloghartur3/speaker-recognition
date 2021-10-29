@@ -10,6 +10,7 @@ The following lines are from the Voxceleb trainer project, which contains the do
 ```
 pip install -r requirements.txt
 ```
+In addition to the Python dependencies, wget must be installed on the system.
 
 ### Downloading the database (Windows)
 
