@@ -6,6 +6,8 @@ We used the Voxceleb1 dataset, which contains over 100,000 utterances for 1,251 
 The following lines are from the Voxceleb trainer project, which contains the download method for the data too:
 (https://github.com/clovaai/voxceleb_trainer)
 
+We modified the codes by adding additional dependencies and made it to work on Windows.
+
 ### Dependencies
 ```
 pip install -r requirements.txt
