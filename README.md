@@ -27,6 +27,12 @@ The USERNAME and PASSWORD need to be requested from this link: https://docs.goog
 
 For the easy use of the provided data preparation, we suggest using the root of this project as a --save path
 
+The downloading is not stable, so we recomment to download it manualy.
+
 ### Data preparation 
 
 You can find the data processing in the Big_Homework.ipynb in the root directory of the project
+
+### Training and Evaluation
+
+We can find the code containing the training and evaluation of the model in Big_Homework.ipynb
