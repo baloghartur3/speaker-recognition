@@ -1,6 +1,7 @@
 # speaker-recognition
-#Team: Csapat1
-#Members: Kis Ákos, Vezse Botond, Balogh Artúr Botond
+
+# Team: Csapat1
+# Members: Kis Ákos, Vezse Botond, Balogh Artúr Botond
 
 
 # All three of us are writing our thesis now!!!
