@@ -1,6 +1,6 @@
 # speaker-recognition
 
-# All three of us are writing our thesis now!!!
+<font color='red'># All three of us are writing our thesis now!!!</font>
 
 ## The database
 We used the Voxceleb1 dataset, which contains over 100,000 utterances for 1,251 celebrities, extracted from videos uploaded to YouTube.
