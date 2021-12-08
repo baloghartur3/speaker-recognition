@@ -43,3 +43,7 @@ You can find the data processing in the Big_Homework.ipynb in the root directory
 ### Training and Evaluation
 
 We can find the code containing the training and evaluation of the model in Big_Homework.ipynb
+
+### Testing and Optimization
+
+We managed to expand the code with hyperoptimalization and added some visualization as well as some testing with different input parameters
