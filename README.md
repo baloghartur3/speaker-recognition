@@ -48,4 +48,4 @@ We can find the code containing the training and evaluation of the model in Big_
 
 We managed to expand the code with hyperoptimalization and added some visualization as well as some testing with different input parameters
 
-The tmp folder contains the optimization log files (tensorboard)
+The tmp folder contains the optimization log files (tensorboard) that should be placed to the root of the current drive
