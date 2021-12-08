@@ -24,7 +24,7 @@ In addition to the Python dependencies, wget must be installed on the system.
 ### Downloading the database (Windows)
 
 The required files and folder (lists, dataprep.py, requirements.txt) are in the root of the project
-The following script can be used to download and prepare the VoxCeleb dataset for training.
+The following script can be used to download and prepare the VoxCeleb1 dataset for training.
 
 ```
 python ./dataprep.py --save_path data --download --user USERNAME --password PASSWORD 
