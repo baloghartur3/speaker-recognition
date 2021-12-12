@@ -4,10 +4,8 @@ scikit-learn
 tqdm
 pyyaml
 pandas
-soundfile
 wget
 matplotlib
 keras
 tensorflow
-glob
 keras_tuner
